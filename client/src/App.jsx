@@ -18,7 +18,7 @@ export default function App() {
     setResult(null);
 
     try {
-      const response = await fetch("/api/summarize", {
+      const response = await fetch("https://assignment-summarizer-production-d947.up.railway.app/api/summarize", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ text }),
