@@ -99,7 +99,7 @@ about the potential clues these samples may offer about ancient life on Mars.
   "sentiment": "positive"
 }
 ```
-![Example Output](./screenshot.png)
+![Example Output](./Screenshot%202026-03-20%20022157.png)
 ---
 
 ## Known Trade-offs
