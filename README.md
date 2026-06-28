@@ -4,6 +4,7 @@ A small full-stack app that accepts unstructured text and returns a structured s
 
 Built as part of the AI Developer Intern take-home assignment.
 
+Live url : https://assignment-summarizer.netlify.app/
 ---
 
 ## Tech Stack
